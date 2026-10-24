@@ -12,3 +12,5 @@ Scripts for practicing Linux users, groups, and file permissions.
 - 7-everybody: adds execute permission to the owner, group, and other users for the file hello.
 - 8-James_Bond: sets no permissions for the owner and group, and all permissions for other users, on the file hello.
 - 9-John_Doe: sets the permissions of the file hello to 753 (rwxr-x-wx).
+
+- 10-mirror_permissions: mirrors the mode of olleh on hello.
