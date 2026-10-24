@@ -18,3 +18,4 @@ Scripts for practicing Linux users, groups, and file permissions.
 - 12-directory_permissions: creates a directory named my_dir with permissions 751 in the working directory.
 - 13-change_group: changes the group owner of the file hello to school.
 - 14-change_owner_and_group: changes the owner to vincent and the group to staff for all files and directories in the current directory.
+- 15-symbolic_link_permissions: changes the owner and group of the symbolic link _hello to vincent and staff, without changing its target.
