@@ -17,3 +17,4 @@ Scripts for practicing Linux users, groups, and file permissions.
 - 11-directories_permissions: adds execute permission for all users to subdirectories of the current directory, leaving regular files unchanged.
 - 12-directory_permissions: creates a directory named my_dir with permissions 751 in the working directory.
 - 13-change_group: changes the group owner of the file hello to school.
+- 14-change_owner_and_group: changes the owner to vincent and the group to staff for all files and directories in the current directory.
