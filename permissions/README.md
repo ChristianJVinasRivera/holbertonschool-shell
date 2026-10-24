@@ -14,3 +14,4 @@ Scripts for practicing Linux users, groups, and file permissions.
 - 9-John_Doe: sets the permissions of the file hello to 753 (rwxr-x-wx).
 
 - 10-mirror_permissions: mirrors the mode of olleh on hello.
+- 11-directories_permissions: adds execute permission for all users to subdirectories of the current directory, leaving regular files unchanged.
