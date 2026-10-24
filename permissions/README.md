@@ -16,3 +16,4 @@ Scripts for practicing Linux users, groups, and file permissions.
 - 10-mirror_permissions: mirrors the mode of olleh on hello.
 - 11-directories_permissions: adds execute permission for all users to subdirectories of the current directory, leaving regular files unchanged.
 - 12-directory_permissions: creates a directory named my_dir with permissions 751 in the working directory.
+- 13-change_group: changes the group owner of the file hello to school.
