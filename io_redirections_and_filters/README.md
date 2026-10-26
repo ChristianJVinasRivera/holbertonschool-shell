@@ -34,3 +34,6 @@ Duplicates the last line of the file iacta in the working directory.
 
 ## 10-no_more_js
 Deletes all regular .js files in the current directory and its subdirectories.
+
+## 11-directories
+Counts directories and subdirectories, including hidden ones, excluding the current and parent directories.
