@@ -20,3 +20,7 @@ Displays the first 10 lines of /etc/passwd.
 
 ## 6-third_line
 Displays the third line of the file iacta in the working directory.
+
+## 7-file
+Creates a file with a special-character name containing Best School,
+followed by a new line.
