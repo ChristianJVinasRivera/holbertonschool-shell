@@ -37,3 +37,6 @@ Deletes all regular .js files in the current directory and its subdirectories.
 
 ## 11-directories
 Counts directories and subdirectories, including hidden ones, excluding the current and parent directories.
+
+## 12-newest_files
+Displays the 10 newest files in the current directory, one per line, sorted from newest to oldest.
