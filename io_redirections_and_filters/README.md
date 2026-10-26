@@ -43,3 +43,6 @@ Displays the 10 newest files in the current directory, one per line, sorted from
 
 ## 13-unique
 Prints words that appear exactly once in the input, sorted and one per line.
+
+## 14-findthatword
+Displays lines containing the pattern root from /etc/passwd.
