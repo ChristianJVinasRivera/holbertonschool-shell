@@ -46,3 +46,6 @@ Prints words that appear exactly once in the input, sorted and one per line.
 
 ## 14-findthatword
 Displays lines containing the pattern root from /etc/passwd.
+
+## 15-countthatword
+Counts lines containing the pattern bin in /etc/passwd.
