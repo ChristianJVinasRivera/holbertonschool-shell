@@ -40,3 +40,6 @@ Counts directories and subdirectories, including hidden ones, excluding the curr
 
 ## 12-newest_files
 Displays the 10 newest files in the current directory, one per line, sorted from newest to oldest.
+
+## 13-unique
+Prints words that appear exactly once in the input, sorted and one per line.
