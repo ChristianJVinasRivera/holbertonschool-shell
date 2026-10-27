@@ -31,4 +31,7 @@ Prints the sum of 128 and the value of TRUEKNOWLEDGE, followed by a new line.
 Prints the result of POWER divided by DIVIDE, followed by a new line.
 
 ## 10-love_exponent_breath
-Prints BREATH raised to the power of LOVE, followed by a new line.
+Prints BREATH raised to the power of LOVE, followed by a new line
+
+## 11-binary_to_decimal
+Converts the number stored in BINARY from base 2 to base 10, followed by a new line.
