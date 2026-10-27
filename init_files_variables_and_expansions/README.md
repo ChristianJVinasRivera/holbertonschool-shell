@@ -35,3 +35,6 @@ Prints BREATH raised to the power of LOVE, followed by a new line
 
 ## 11-binary_to_decimal
 Converts the number stored in BINARY from base 2 to base 10, followed by a new line.
+
+## 12-combinations
+Prints all lowercase two-letter combinations in alphabetical order, except oo, one per line.
