@@ -58,3 +58,6 @@ Displays lines from /etc/passwd that do not contain the pattern bin.
 
 ## 18-letteronly
 Displays lines from /etc/ssh/sshd_config that start with a letter, including uppercase letters.
+
+## 19-AZ
+Replaces all occurrences of A with Z and c with e from standard input.
