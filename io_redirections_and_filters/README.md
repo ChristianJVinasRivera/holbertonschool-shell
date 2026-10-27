@@ -61,3 +61,6 @@ Displays lines from /etc/ssh/sshd_config that start with a letter, including upp
 
 ## 19-AZ
 Replaces all occurrences of A with Z and c with e from standard input.
+
+## 20-hiago
+Removes all lowercase c and uppercase C characters from standard input.
