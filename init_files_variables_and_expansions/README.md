@@ -29,3 +29,6 @@ Prints the sum of 128 and the value of TRUEKNOWLEDGE, followed by a new line.
 
 ## 9-divide_and_rule
 Prints the result of POWER divided by DIVIDE, followed by a new line.
+
+## 10-love_exponent_breath
+Prints BREATH raised to the power of LOVE, followed by a new line.
