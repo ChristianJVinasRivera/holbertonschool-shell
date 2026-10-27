@@ -55,3 +55,6 @@ Displays lines containing the pattern root and the 3 lines after each match in /
 
 ## 17-hidethisword
 Displays lines from /etc/passwd that do not contain the pattern bin.
+
+## 18-letteronly
+Displays lines from /etc/ssh/sshd_config that start with a letter, including uppercase letters.
