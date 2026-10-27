@@ -41,3 +41,6 @@ Prints all lowercase two-letter combinations in alphabetical order, except oo, o
 
 ## 13-print_float
 Prints the number stored in NUM with two decimal places, followed by a new line.
+
+## 14-decimal_to_hexadecimal
+Converts the number stored in DECIMAL from base 10 to base 16, followed by a new line.
