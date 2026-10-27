@@ -52,3 +52,6 @@ Counts lines containing the pattern bin in /etc/passwd.
 
 ## 16-whatsnext
 Displays lines containing the pattern root and the 3 lines after each match in /etc/passwd.
+
+## 17-hidethisword
+Displays lines from /etc/passwd that do not contain the pattern bin.
