@@ -67,3 +67,6 @@ Removes all lowercase c and uppercase C characters from standard input.
 
 ## 21-reverse
 Reverses the characters of each line from standard input.
+
+## 22-users_and_homes
+Displays all users and their home directories, sorted by username.
