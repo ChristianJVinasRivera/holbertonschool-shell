@@ -11,3 +11,6 @@ Adds /action to the end of the PATH environment variable.
 
 ## 3-paths
 Counts the number of directories in the PATH environment variable.
+
+## 4-global_variables
+Prints all environment variables and their values.
