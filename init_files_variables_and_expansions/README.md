@@ -38,3 +38,6 @@ Converts the number stored in BINARY from base 2 to base 10, followed by a new l
 
 ## 12-combinations
 Prints all lowercase two-letter combinations in alphabetical order, except oo, one per line.
+
+## 13-print_float
+Prints the number stored in NUM with two decimal places, followed by a new line.
